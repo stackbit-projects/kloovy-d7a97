@@ -143,11 +143,10 @@ sections:
     has_border: true
     background_color: none
   - type: form_section
-    content: >-
-      ## Ask A Question
+    content: |
+      ## Ask Us
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+      Contact us to find out more about our solutions.
     content_align: left
     form_position: right
     form_width: fifty
