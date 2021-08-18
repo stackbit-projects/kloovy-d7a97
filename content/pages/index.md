@@ -8,7 +8,7 @@ sections:
       We bring innovative solutions to the music industry, using next generation
       NFT technology that turn listeners into contributors.
     actions:
-      - label: Subscribe to Podcast
+      - label: Contact Us
         url: /thank-you
         style: primary
     image: images/hero.png
