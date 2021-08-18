@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We are Kloov
-    subtitle: Optional hero section subtitle
+    subtitle: 'NFT '
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
