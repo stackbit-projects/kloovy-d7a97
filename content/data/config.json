@@ -33,7 +33,7 @@
             {
                 "label": "Register",
                 "url": "/subscribe",
-                "style": "link"
+                "style": "primary"
             }
         ]
     },
