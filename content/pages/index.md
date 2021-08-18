@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: We are Kloov
     subtitle: NextGen NFT tools for artists
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: >
+      We bring innovative solutions to the music industry, using next generation
+      NFT technology that turn listeners into contributors.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
